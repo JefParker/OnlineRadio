@@ -1,5 +1,5 @@
 {
-  "name": "ESPN Radio 710 Los Angeles",
+  "name": "Sports Talk Radio",
   "short_name": "Online Radio",
   "description": "Online Radio via TuneIn",
   "version": "0.0.0.2",
@@ -9,13 +9,13 @@
   },
   "app": {
     "urls": [
-    "http://MessyStudio.com/Chrome/KSPN/"
+    "http://MessyStudio.com/Chrome/KSPN/index2.htm"
     ],
     "launch": {
-    "web_url": "http://MessyStudio.com/Chrome/KSPN/",
+    "web_url": "http://MessyStudio.com/Chrome/KSPN/index2.htm",
     "container": "panel",
-    "height": 200,
-    "width": 300
+    "height": 141,
+    "width": 475
     }
   },
   "permissions": [
