@@ -1,0 +1,25 @@
+{
+  "name": "ESPN Radio 710 Los Angeles",
+  "short_name": "Online Radio",
+  "description": "Online Radio via TuneIn",
+  "version": "0.0.0.2",
+  "manifest_version": 2,
+  "icons": {
+    "128": "BBall.png"
+  },
+  "app": {
+    "urls": [
+    "http://MessyStudio.com/Chrome/KSPN/"
+    ],
+    "launch": {
+    "web_url": "http://MessyStudio.com/Chrome/KSPN/",
+    "container": "panel",
+    "height": 200,
+    "width": 300
+    }
+  },
+  "permissions": [
+    "notifications",
+    "background"
+    ]
+}
