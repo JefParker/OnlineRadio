@@ -9,10 +9,10 @@
   },
   "app": {
     "urls": [
-    "http://MessyStudio.com/Chrome/KSPN/index2.htm"
+    "http://MessyStudio.com/Chrome/Radio/"
     ],
     "launch": {
-    "web_url": "http://MessyStudio.com/Chrome/KSPN/index2.htm",
+    "web_url": "http://MessyStudio.com/Chrome/Radio/",
     "container": "panel",
     "height": 141,
     "width": 475
